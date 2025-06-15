@@ -7,7 +7,7 @@
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,fastapi,bun)](https://skillicons.dev)
 
 ### 🛠️ Herramientas de Desarrollo
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,npm,postman,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,npm,bun,postman,docker)](https://skillicons.dev)
 
 ### 🧩 Backend / BaaS
 [![My Skills](https://skillicons.dev/icons?i=supabase)](https://skillicons.dev)

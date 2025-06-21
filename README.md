@@ -1,19 +1,19 @@
-## 🛠️ My Technologies & Tools
+##  My Technologies & Tools
 
-### 🧠 Languages
+###  Languages
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,html)](https://skillicons.dev)
 
-### ⚙️ Frameworks & Libraries
+###  Frameworks & Libraries
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,fastapi,express,nodejs,vite,prisma)](https://skillicons.dev)
 
-### 🧰 Development Tools
+###  Development Tools
 [![My Skills](https://skillicons.dev/icons?i=vscode,git,npm,bun,postman,docker,figma)](https://skillicons.dev)
 
-### 🧩 Backend / BaaS
+###  Backend / BaaS
 [![My Skills](https://skillicons.dev/icons?i=supabase)](https://skillicons.dev)
 
-### 🖥️ Operating Systems
+###  Operating Systems
 [![My Skills](https://skillicons.dev/icons?i=ubuntu)](https://skillicons.dev)
 
-### 📚 Productivity & Organization
+###  Productivity & Organization
 [![My Skills](https://skillicons.dev/icons?i=notion)](https://skillicons.dev)

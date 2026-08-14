@@ -34,10 +34,8 @@
 
 ###  Stats
 
-<img src="https://github-readme-stats-omega-ten-46.vercel.app/api?username=Rxul-dev&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d0221&title_color=FF00E5&icon_color=00F0FF&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rxul-dev&theme=synthwave&hide_border=true&background=0d0221&ring=FF00E5&fire=00F0FF&currStreakLabel=00F0FF" height="165"/>
 
-<img src="https://github-readme-stats-omega-ten-46.vercel.app/api/top-langs/?username=Rxul-dev&layout=compact&theme=synthwave&hide_border=true&bg_color=0d0221&title_color=FF00E5&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rxul-dev&theme=synthwave&hide_border=true&background=0d0221&ring=FF00E5&fire=00F0FF&currStreakLabel=00F0FF" height="165"/>
 
 </div>
 

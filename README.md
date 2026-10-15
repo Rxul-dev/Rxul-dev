@@ -56,4 +56,24 @@
 
 ## > STACK
 
-<img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,fastapi,express,prisma,supabase,postgres,docker,terraform,githubactions,grafana,prometheus,nginx,git,figma,vscode,ubuntu&theme=dark&perline=
+<img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,fastapi,express,prisma,supabase,postgres,docker,terraform,githubactions,grafana,prometheus,nginx,git,figma,vscode,ubuntu&theme=dark&perline=10" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### Contribution Snake
+
+<!--START_SECTION:snake-->
+<img src="https://raw.githubusercontent.com/Rxul-dev/Rxul-dev/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<!--END_SECTION:snake-->
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:8B00FF,100:FF00E5&height=100&section=footer&animation=fadeIn" width="100%"/>
+</div>

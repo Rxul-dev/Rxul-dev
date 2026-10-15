@@ -18,15 +18,6 @@
 
 </div>
 
-<br/>
-
-## > ABOUT
-
-Desarrollador full-stack enfocado en **backends, pipelines de datos e interfaces con identidad retro**.
-Construyo desde APIs en tiempo real y ETLs orquestados hasta sitios en producción para negocios reales.
-
-<br/>
-
 ## > FEATURED PROJECT
 
 <div align="center">
@@ -37,39 +28,27 @@ Construyo desde APIs en tiempo real y ETLs orquestados hasta sitios en producci�
 
 </div>
 
-Implementación full-stack de referencia: **API de mensajería en tiempo real + ETL orquestado con Temporal hacia un data warehouse**, con observabilidad completa y despliegue como código.
-
-| Capa | Tecnología |
-| --- | --- |
-| API + WebSockets | FastAPI · SQLAlchemy · PostgreSQL |
-| Frontend | React 18 · TypeScript · Vite · Zustand |
-| Orquestación ETL | Temporal (workflows, reintentos, backfills, cargas incrementales) |
-| Data Warehouse | PostgreSQL dimensional (`dim_*` / `fact_*`) + Apache Spark |
-| BI | Metabase |
-| Observabilidad | Prometheus · Grafana · Loki · Promtail |
-| Infra / CI-CD | Docker Compose · Terraform (DigitalOcean) · GitHub Actions |
-
 <br/>
 
 ## > PROJECTS
 
-| Proyecto | Descripción | Stack |
+| Project | Description | Stack |
 | --- | --- | --- |
-| [**Student Registration API**](https://github.com/Rxul-dev/Backend-student-registration) | Backend para registro de estudiantes | FastAPI |
-| [**Rescue Pets App**](https://github.com/Rxul-dev/Pets-App-) | App móvil de rescate de mascotas + diseño UI en Figma | React · Figma |
-| [**Jarvis**](https://github.com/Rxul-dev/Jarvis_Rxul) | Asistente personal con IA | Python · OpenAI |
-| **Banking App** | Demo funcional de app bancaria + diseño UI en Figma | [Ver en portafolio](https://rxul.dev/my-projects) |
-| **Cafeteria Project** | Registro/perfil de usuarios y sección de food delivery | [Ver en portafolio](https://rxul.dev/my-projects) |
+| [**Student Registration API**](https://github.com/Rxul-dev/Backend-student-registration) | Backend for student registration | FastAPI |
+| [**Rescue Pets App**](https://github.com/Rxul-dev/Pets-App-) | Mobile pet rescue app + UI design in Figma | React · Figma |
+| [**Jarvis**](https://github.com/Rxul-dev/Jarvis_Rxul) | AI personal assistant | Python · OpenAI |
+| **Banking App** | Functional banking app demo + UI design in Figma | [See in portfolio](https://rxul.dev/my-projects) |
+| **Cafeteria Project** | User registration/profile module and food delivery section | [See in portfolio](https://rxul.dev/my-projects) |
 
 <br/>
 
 ## > LIVE CLIENT WORK
 
-| Sitio | Negocio |
+| Site | Business |
 | --- | --- |
-| [**A&A Reliable Construction**](https://www.aareliableconstruction.com/) | Roofing experts |
-| [**Vida Vela Clinic & Pharmacy**](https://draheisell.com/) | Clínica y farmacia, San Felipe, Retalhuleu |
-| [**PB Flooring**](https://www.pbflooringms.com/en) | Instalación y refinado de pisos de madera, Jackson, MS |
+| [**A&A Reliable Construction**](https://www.aareliableconstruction.com/) | Roofing experts<br/>130 W Wrightwood Ave, Glendale Heights, IL 60139 |
+| [**Vida Vela Clinic & Pharmacy**](https://draheisell.com/) | Clinic and pharmacy |
+| [**PB Flooring**](https://www.pbflooringms.com/en) | Hardwood floor installation, sanding & refinishing in Jackson, MS |
 
 <br/>
 
@@ -77,24 +56,4 @@ Implementación full-stack de referencia: **API de mensajería en tiempo real + 
 
 ## > STACK
 
-<img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,fastapi,express,prisma,supabase,postgres,docker,terraform,githubactions,grafana,prometheus,nginx,git,figma,vscode,ubuntu&theme=dark&perline=10" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### Contribution Snake
-
-<!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/Rxul-dev/Rxul-dev/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-<!--END_SECTION:snake-->
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:8B00FF,100:FF00E5&height=100&section=footer&animation=fadeIn" width="100%"/>
-</div>
+<img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,fastapi,express,prisma,supabase,postgres,docker,terraform,githubactions,grafana,prometheus,nginx,git,figma,vscode,ubuntu&theme=dark&perline=
